@@ -1,0 +1,12 @@
+<Project>
+
+  <PropertyGroup>
+    <Authors>Paddy Kearns</Authors>
+    <Company>Paddy Kearns</Company>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+</Project>
