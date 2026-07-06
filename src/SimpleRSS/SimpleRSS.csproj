@@ -6,9 +6,10 @@
     <AssemblyName>SimpleRSS</AssemblyName>
     <RootNamespace>SimpleRSS</RootNamespace>
 
-    <Version>2.1.1</Version>
-    <Description>A lightweight library for reading RSS and Atom syndication feeds.</Description>
-    <PackageTags>RSS Atom Feed Syndication Parse</PackageTags>
+    <Version>2.1.2</Version>
+    <PackageTitle>SimpleRSS - RSS Feed Reader and Parser</PackageTitle>
+    <Description>A lightweight RSS and Atom feed reader and parser for .NET 8+. Fetches, parses, and models RSS 2.0, Atom, and RDF syndication feeds.</Description>
+    <PackageTags>RSS RSS Reader RSS Parser Atom Feed Syndication Reader Parser</PackageTags>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageProjectUrl>https://github.com/kearns2000/SimpleRSS</PackageProjectUrl>
