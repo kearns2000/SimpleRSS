@@ -6,9 +6,11 @@
 [![License](https://img.shields.io/github/license/kearns2000/SimpleRSS.svg)](LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-8%2B-512BD4)](https://dotnet.microsoft.com/download)
 
-A lightweight .NET RSS feed reader and parser for RSS, Atom, and RDF syndication feeds.
+A lightweight .NET RSS feed reader, parser, and aggregator for RSS 2.0, Atom 1.0, and RDF syndication feeds.
 
-Version 2.x is a modern rewrite for .NET 8+ with async HTTP support, feed metadata, typed dates, caching, and dependency injection.
+Version 2.x is a modern rewrite for .NET 8+ with async HTTP support, feed metadata, typed dates, caching, feed discovery, parallel multi-feed fetching, and dependency injection.
+
+**Keywords:** RSS reader, RSS parser, Atom reader, Atom parser, syndication feed, feed aggregator, XML feed parser, HTTP feed fetcher, podcast RSS, feed discovery, .NET 8, dependency injection.
 
 ## Install
 

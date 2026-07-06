@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.1.2] - 2026-07-06
 
 ### Changed
-- Improved NuGet search metadata (title, description, tags) for discoverability as an RSS feed reader and parser
+- Expanded NuGet search metadata with comprehensive tags, title, description, and README keywords for RSS/Atom feed reader and parser discoverability
 
 ## [2.1.1] - 2026-07-02
 

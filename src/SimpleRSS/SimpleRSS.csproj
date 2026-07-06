@@ -7,9 +7,9 @@
     <RootNamespace>SimpleRSS</RootNamespace>
 
     <Version>2.1.2</Version>
-    <PackageTitle>SimpleRSS - RSS Feed Reader and Parser</PackageTitle>
-    <Description>A lightweight RSS and Atom feed reader and parser for .NET 8+. Fetches, parses, and models RSS 2.0, Atom, and RDF syndication feeds.</Description>
-    <PackageTags>RSS RSS Reader RSS Parser Atom Feed Syndication Reader Parser</PackageTags>
+    <PackageTitle>SimpleRSS - RSS and Atom Feed Reader, Parser, and Aggregator</PackageTitle>
+    <Description>SimpleRSS is a lightweight, modern RSS and Atom feed reader, parser, and aggregator for .NET 8+. Fetch feeds over HTTP, parse RSS 2.0, Atom 1.0, and RSS 1.0/RDF XML, and work with strongly-typed feed models including channels, items, categories, enclosures, images, and dates. Supports async HTTP, parallel multi-feed fetching, feed auto-discovery from websites, conditional HTTP caching, dependency injection, secure XML parsing, and HTML entity decoding.</Description>
+    <PackageTags>rss rss2 rss2.0 rss10 atom atom1.0 rdf syndication syndicationfeed feed feeds reader parser parsing xml http async dotnet net8 net10 csharp feedreader feedparser rssreader rssparser atomreader atomparser news blog podcast enclosure discovery caching dependency-injection aggregation aggregator multifeed parallel fetch url website stream models datetime categories SimpleRSS</PackageTags>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageProjectUrl>https://github.com/kearns2000/SimpleRSS</PackageProjectUrl>
